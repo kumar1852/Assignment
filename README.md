@@ -15,3 +15,7 @@ ex: docker run imageName python /src/p.py(file address) "movie name"
     docker run myimage python /src/p.py "avatar"
     
     Finally we can get the Rotten Tomatoes value
+    
+    ex: Rotten Tomatoes:82%
+
+    
